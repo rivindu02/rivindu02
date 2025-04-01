@@ -80,31 +80,33 @@ I operate at the convergence of telecommunications, embedded systems, and machin
       <h3 align="center">🤖 Advanced Robotics Module</h3>
       <p align="center">
         <a href="https://github.com/rivindu02/robotics-module" target="_blank">
-          <img src="/api/placeholder/500/300" alt="Robotics Module" width="100%" />
+          <img src="https://github.com/rivindu02/rivindu02/blob/main/WhatsApp%20Image%202025-04-02%20at%2001.31.07_a522804d.jpg" alt="Robotics Module" width="100%" />
         </a>
         <span>Multi-functional robot capable of line following (black/white/color), box arrangement,color detection and precision gripper mechanism for sorting ping pong balls and virtual box manipulation using IR array PID and encoder PID control</span>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔐 IoT Security Camera System</h3>
-      <p align="center">
-        <a href="https://github.com/rivindu02/security-camera" target="_blank">
-          <img src="/api/placeholder/500/300" alt="Security Camera" width="100%" />
-        </a>
-        <span>Raspberry Pi-powered security system with real-time monitoring, remote access, and alert notifications</span>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">🅿️ Smart Parking Assistant</h3>
       <p align="center">
         <a href="https://github.com/rivindu02/parking-assistant" target="_blank">
-          <img src="/api/placeholder/500/300" alt="Parking Assistant" width="100%" />
+          <img src="https://github.com/rivindu02/rivindu02/blob/main/parksense.jpg" alt="Parking Assistant" width="100%" />
         </a>
         <span>Web-based parking management system with license plate recognition using ML, user identification, and slot selection</span>
       </p>
     </td>
+    
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 IoT Security Camera System</h3>
+      <p align="center">
+        <a href="https://github.com/rivindu02/security-camera" target="_blank">
+          <embedded src="https://github.com/rivindu02/rivindu02/blob/main/security_camera_demo.gif" alt="Security Camera" width="100%" />
+        </a>
+        <span>Raspberry Pi-powered security system with real-time monitoring, remote access, and alert notifications</span>
+      </p>
+    </td>
+    
     
   </tr>
 </table>
