@@ -1,11 +1,11 @@
 <h1 align="center">👨‍💻 Rivindu Vinsara Kumarage</h1>
 
-<!-- Add your custom animated GIF here -->
+<!-- Animated GIF Banner -->
 <p align="center">
   <img src="https://github.com/rivindu02/rivindu02/blob/main/github_intro.gif" width="500" alt="Animated Banner" />
 </p>
 
-<h3 align="center">⚡ Electronic & Telecom Engineer | AI Architect | Robotics Enthusiast ⚡</h3>
+<h3 align="center">⚡ Electronic & Telecom Engineer | Robotics Innovator | IoT & ML Specialist ⚡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rivindu02&label=Explorers&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -16,45 +16,43 @@
 <div align="center">
   
   ```python
-  class TechPolymath:
+  class EngineeringInnovator:
       def __init__(self):
           self.name = "Rivindu Vinsara Kumarage"
           self.education = "Electronic & Telecom Engineering, UoM, Sri Lanka"
-          self.domains = {
-              "hardware": ["Embedded Systems", "Robotics", "IoT Devices", "Circuit Design"],
-              "software": ["Signal Processing", "Machine Learning", "Computer Vision"],
-              "languages": ["C/C++", "Python", "Verilog HDL", "MATLAB"],
-              "math": ["Complex Analysis", "Linear Algebra", "DSP", "Algorithms"]
-          }
-          self.current_focus = "Creating intelligent autonomous systems through hardware-software integration"
           
-      def innovate(self, challenge):
-          while not solved:
-              theory = apply_mathematical_models(challenge)
-              design = create_hardware_solution(theory)
-              algorithm = develop_intelligent_software(design)
-              if evaluate(algorithm):
-                  return deploy_to_real_world(algorithm)
-              else:
-                  iterate_and_optimize()
+          self.core_domains = ["Telecom Systems", "Robotics", "Embedded Systems", 
+                               "IoT", "Signal Processing"]
+          
+          self.tech_stack = {
+              "hardware": ["Circuit Design", "PCB Layout", "FPGA", "Microcontrollers", 
+                          "RF Systems", "Wireless Communications"],
+              "languages": ["Python", "C/C++", "Verilog", "MATLAB"],
+              "ai_ml": ["Computer Vision", "TensorFlow", "PyTorch", "Signal Analysis"],
+              "telecom": ["Network Protocols", "Communication Systems", 
+                         "Signal Processing", "Wireless Technology"]
+          }
+          
+          self.current_focus = "Bridging telecom technologies with IoT and intelligent systems"
+          
+      def approach(self):
+          return "Creating innovative solutions where hardware meets intelligence"
   ```
   
 </div>
 
 ---
 
-## 🔮 Technical Vision
+## 🔮 Vision & Mission
 
-> *"Bridging theoretical mathematics with practical engineering to create intelligent autonomous systems"*
+> *"Designing connected systems that seamlessly integrate communication, intelligence, and real-world interaction"*
 
-I'm fascinated by the entire stack of intelligent system development - from mathematical foundations and signal processing theory to hardware implementation and algorithmic intelligence. My work exists at the intersection of:
+I operate at the convergence of telecommunications, embedded systems, and machine intelligence. My work bridges traditional engineering with cutting-edge technologies to create smart, connected solutions.
 
-- 🤖 **Robotics & Automation:** Designing systems that can sense, decide, and act autonomously
-- 🔧 **Embedded Systems:** Creating efficient hardware solutions for real-time applications
-- 🧠 **Machine Learning:** Implementing algorithms that can learn from and adapt to data
-- 📊 **Signal Processing:** Extracting meaningful information from complex sensor data
-- 🔌 **Verilog HDL:** Designing digital circuits and systems at the hardware description level
-- 📐 **Mathematical Foundations:** Applying complex analysis and linear algebra to solve engineering challenges
+- 📡 **Telecom:** Wireless systems, network protocols, RF design, communication theory
+- 🤖 **Robotics:** Autonomous navigation, PID control, sensor fusion, motor control
+- 🔌 **Electronics:** Circuit design, embedded systems, PCB development, microcontrollers
+- ☁️ **IoT & Cloud:** Remote monitoring, smart systems, data analytics, cloud integration
 
 ---
 
@@ -62,71 +60,95 @@ I'm fascinated by the entire stack of intelligent system development - from math
 
 <div align="center">
 
-**Hardware & Embedded** | **Software & Algorithms** | **Languages & Tools** | **Mathematical Domains**
-:---------------------:|:------------------------:|:--------------------:|:----------------------:
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> | <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab" /> | <img src="https://skillicons.dev/icons?i=latex" />
-Circuit Design, PCB Layout | Signal Processing, DSP | Verilog HDL, Assembly | Linear Algebra, Complex Analysis
-Sensors, Actuators, IoT | Computer Vision, AI | Git, Linux | Algorithms, Optimization
-FPGA Programming | Control Systems | MySQL, Bash | Numerical Methods
+**Hardware & Telecom** | **Languages & Tools** | **AI & Automation**
+:-------------------------:|:--------------------:|:-------------------:
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,bash,blender" /> | <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,vscode" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,aws,gcp" />
 
 </div>
 
+<p align="center">
+  <b>Additional Skills:</b> RF Systems • Network Protocols • Verilog HDL • PCB Design • PID Control • IoT Architecture • Control Systems • Data Structures & Algorithms • Web Development
+</p>
+
 ---
 
-## 🏆 Project Showcase
+## 🏆 Real-World Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 Autonomous Navigation Robot</h3>
+      <h3 align="center">🤖 Advanced Robotics Module</h3>
       <p align="center">
-        <a href="https://github.com/rivindu02/autonomous-robot" target="_blank">
-          <img src="/api/placeholder/500/300" alt="Autonomous Robot" width="100%" />
+        <a href="https://github.com/rivindu02/robotics-module" target="_blank">
+          <img src="/api/placeholder/500/300" alt="Robotics Module" width="100%" />
         </a>
-        <span>Embedded system using sensor fusion, SLAM algorithms and custom PCB design for indoor navigation</span>
+        <span>Multi-functional robot capable of line following (black/white/color), box arrangement,color detection and precision gripper mechanism for sorting ping pong balls and virtual box manipulation using IR array PID and encoder PID control</span>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📡 Advanced Signal Processing Library</h3>
+      <h3 align="center">🔐 IoT Security Camera System</h3>
       <p align="center">
-        <a href="https://github.com/rivindu02/signal-processing" target="_blank">
-          <img src="/api/placeholder/500/300" alt="Signal Processing" width="100%" />
+        <a href="https://github.com/rivindu02/security-camera" target="_blank">
+          <img src="/api/placeholder/500/300" alt="Security Camera" width="100%" />
         </a>
-        <span>Optimized DSP algorithms implementing FFT, wavelet transforms and filter designs for resource-constrained systems</span>
+        <span>Raspberry Pi-powered security system with real-time monitoring, remote access, and alert notifications</span>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🔌 FPGA-Based Video Processing</h3>
+      <h3 align="center">🅿️ Smart Parking Assistant</h3>
       <p align="center">
-        <a href="https://github.com/rivindu02/fpga-video" target="_blank">
-          <img src="/api/placeholder/500/300" alt="FPGA Video Processing" width="100%" />
+        <a href="https://github.com/rivindu02/parking-assistant" target="_blank">
+          <img src="/api/placeholder/500/300" alt="Parking Assistant" width="100%" />
         </a>
-        <span>Verilog implementation of real-time video filters and edge detection algorithms on FPGA</span>
+        <span>Web-based parking management system with license plate recognition using ML, user identification, and slot selection</span>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🧠 Embedded Machine Learning Framework</h3>
-      <p align="center">
-        <a href="https://github.com/rivindu02/embedded-ml" target="_blank">
-          <img src="/api/placeholder/500/300" alt="Embedded ML" width="100%" />
-        </a>
-        <span>Lightweight ML inference engine optimized for microcontrollers with mathematical model compression techniques</span>
-      </p>
-    </td>
+    
   </tr>
 </table>
 
 ---
 
-## 📚 Research Interests
+## 📚 Additional Project Portfolio
 
-- **Mathematical Optimization in Robotics:** Applying complex analysis to path planning algorithms
-- **Efficient Neural Network Architectures:** Designing ML models for resource-constrained embedded systems
-- **Advanced Signal Processing:** Novel approaches to sensor fusion and filtering for noisy environments
-- **Hardware-Software Co-Design:** Creating optimal architectures for computationally intensive applications
-- **FPGA Acceleration:** Implementing parallel algorithms in hardware for real-time processing
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">💊 MediBox</h3>
+      <p>Smart medication box that notifies users of medication schedules while maintaining optimal internal temperature and conditions</p>
+      <p align="center"><b>Technologies</b></p>
+      <p align="center">IoT • Temperature Control • Notification System</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🔌 Smart Plug</h3>
+      <p>IoT-enabled power plug with remote switching capabilities, power consumption monitoring, and email notifications</p>
+      <p align="center"><b>Technologies</b></p>
+      <p align="center">IoT • Power Monitoring • Cloud Integration</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🧭 MicroMouse</h3>
+      <p>Autonomous mouse robot designed for maze navigation using advanced pathfinding algorithms</p>
+      <p align="center"><b>Technologies</b></p>
+      <p align="center">Autonomous Navigation • Sensor Fusion • Algorithms</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3 align="center">📊 Analog Voltmeter</h3>
+      <p>Custom-designed analog voltage measurement device with precision circuitry</p>
+      <p align="center"><b>Technologies</b></p>
+      <p align="center">Analog Circuit Design • Calibration • Precision Measurement</p>
+    </td>
+    <td width="33%" colspan="2">
+      <h3 align="center">📡 Telecommunications Research</h3>
+      <p>Research in modern telecommunications systems, focusing on signal processing techniques, network optimization, and wireless communication protocols</p>
+      <p align="center"><b>Technologies</b></p>
+      <p align="center">RF Systems • Network Protocols • Signal Processing • Wireless Communication</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -139,7 +161,11 @@ FPGA Programming | Control Systems | MySQL, Bash | Numerical Methods
 
 ---
 
-<h2 align="center">⚡ Let's Build Intelligent Systems Together! ⚡</h2>
+<h2 align="center">⚡ Connecting the World through Innovation ⚡</h2>
+
+<p align="center">
+  <i>"From telecommunications infrastructure to intelligent robots, building the connected systems of tomorrow"</i>
+</p>
 
 <p align="center">
   <a href="https://github.com/rivindu02?tab=followers">
