@@ -100,12 +100,13 @@ I operate at the convergence of telecommunications, embedded systems, and machin
     <td width="50%">
       <h3 align="center">🔐 IoT Security Camera System</h3>
       <p align="center">
-        <a href="https://github.com/rivindu02/security-camera" target="_blank">
-          <embedded src="https://github.com/rivindu02/rivindu02/blob/main/security_camera_demo.gif" alt="Security Camera" width="100%" />
+        <a href="https://github.com/rivindu02/parking-assistant" target="_blank">
+          <img src="https://github.com/rivindu02/rivindu02/blob/main/security_camera_demo.gif" alt="Parking Assistant" width="100%" />
         </a>
         <span>Raspberry Pi-powered security system with real-time monitoring, remote access, and alert notifications</span>
       </p>
     </td>
+    <td></td>
     
     
   </tr>
