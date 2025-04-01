@@ -61,7 +61,7 @@ I operate at the convergence of telecommunications, embedded systems, and machin
 
 **Hardware & Telecom** | **Languages & Tools** | **AI & Automation**
 :-------------------------:|:--------------------:|:-------------------:
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,bash,blender" /> | <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,vscode" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,bash,blender" /> | <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,vscode,visualstudio" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,aws,gcp" />
 
 </div>
 
