@@ -19,10 +19,9 @@
   class EngineeringInnovator:
       def __init__(self):
           self.name = "Rivindu Vinsara Kumarage"
-          self.education = "Electronic & Telecom Engineering, UoM, Sri Lanka"
+          self.education = "Electronic & Telecom Engineering, UoM Sri Lanka"
           
-          self.core_domains = ["Telecom Systems", "Robotics", "Embedded Systems", 
-                               "IoT", "Signal Processing"]
+          self.core_domains = ["Telecom Systems", "Robotics", "Embedded Systems", "IoT", "Signal Processing"]
           
           self.tech_stack = {
               "hardware": ["Circuit Design", "PCB Layout", "FPGA", "Microcontrollers", 
@@ -52,7 +51,7 @@ I operate at the convergence of telecommunications, embedded systems, and machin
 - 📡 **Telecom:** Wireless systems, network protocols, RF design, communication theory
 - 🤖 **Robotics:** Autonomous navigation, PID control, sensor fusion, motor control
 - 🔌 **Electronics:** Circuit design, embedded systems, PCB development, microcontrollers
-- ☁️ **IoT & Cloud:** Remote monitoring, smart systems, data analytics, cloud integration
+- ☁️ **IoT & Cloud:** Remote monitoring, smart systems, data analytics
 
 ---
 
