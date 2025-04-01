@@ -1,5 +1,11 @@
 <h1 align="center">👨‍💻 Rivindu Vinsara Kumarage</h1>
-<h3 align="center">⚡ Electronic & Telecom Engineer | AI Architect | Hardware Hacker ⚡</h3>
+
+<!-- Add your custom animated GIF here -->
+<p align="center">
+  <img src="https://github.com/rivindu02/rivindu02/blob/main/github_intro.gif" width="500" alt="Animated Banner" />
+</p>
+
+<h3 align="center">⚡ Electronic & Telecom Engineer | AI Architect | Robotics Enthusiast ⚡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rivindu02&label=Explorers&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -10,38 +16,45 @@
 <div align="center">
   
   ```python
-  class ElectronicsEngineer:
+  class TechPolymath:
       def __init__(self):
           self.name = "Rivindu Vinsara Kumarage"
           self.education = "Electronic & Telecom Engineering, UoM, Sri Lanka"
-          self.skills = ["Embedded Systems", "Machine Learning", "IoT", "Computer Vision"]
-          self.passions = ["Robotics", "AI", "Open-Source", "Hardware Hacking"]
-          self.current_focus = "Bridging the gap between hardware and intelligent software"
+          self.domains = {
+              "hardware": ["Embedded Systems", "Robotics", "IoT Devices", "Circuit Design"],
+              "software": ["Signal Processing", "Machine Learning", "Computer Vision"],
+              "languages": ["C/C++", "Python", "Verilog HDL", "MATLAB"],
+              "math": ["Complex Analysis", "Linear Algebra", "DSP", "Algorithms"]
+          }
+          self.current_focus = "Creating intelligent autonomous systems through hardware-software integration"
           
-      def solve_problem(self, challenge):
+      def innovate(self, challenge):
           while not solved:
-              approach = think_creatively(challenge)
-              solution = implement(approach)
-              if evaluate(solution):
-                  return solution
+              theory = apply_mathematical_models(challenge)
+              design = create_hardware_solution(theory)
+              algorithm = develop_intelligent_software(design)
+              if evaluate(algorithm):
+                  return deploy_to_real_world(algorithm)
               else:
-                  learn_and_adapt()
+                  iterate_and_optimize()
   ```
   
 </div>
 
 ---
 
-## 🔮 Vision & Mission
+## 🔮 Technical Vision
 
-> *"Engineering elegant solutions at the intersection of electrons and algorithms"*
+> *"Bridging theoretical mathematics with practical engineering to create intelligent autonomous systems"*
 
-I'm passionate about creating intelligent systems that interact with the physical world. My journey explores the fascinating convergence of hardware capabilities and software intelligence.
+I'm fascinated by the entire stack of intelligent system development - from mathematical foundations and signal processing theory to hardware implementation and algorithmic intelligence. My work exists at the intersection of:
 
-- 🌱 **Growing:** Deep learning architectures for embedded applications
-- 🔭 **Exploring:** Edge computing for real-time vision systems
-- 🧠 **Learning:** Advanced signal processing techniques
-- 🤝 **Open to:** Collaboration on innovative IoT & ML projects
+- 🤖 **Robotics & Automation:** Designing systems that can sense, decide, and act autonomously
+- 🔧 **Embedded Systems:** Creating efficient hardware solutions for real-time applications
+- 🧠 **Machine Learning:** Implementing algorithms that can learn from and adapt to data
+- 📊 **Signal Processing:** Extracting meaningful information from complex sensor data
+- 🔌 **Verilog HDL:** Designing digital circuits and systems at the hardware description level
+- 📐 **Mathematical Foundations:** Applying complex analysis and linear algebra to solve engineering challenges
 
 ---
 
@@ -49,9 +62,12 @@ I'm passionate about creating intelligent systems that interact with the physica
 
 <div align="center">
 
-**Languages & Frameworks** | **Hardware & Tools** | **ML & Data Science**
-:-------------------------:|:--------------------:|:-------------------:
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,arduino" /> | <img src="https://skillicons.dev/icons?i=raspberrypi,linux,git,matlab" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mysql" />
+**Hardware & Embedded** | **Software & Algorithms** | **Languages & Tools** | **Mathematical Domains**
+:---------------------:|:------------------------:|:--------------------:|:----------------------:
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> | <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab" /> | <img src="https://skillicons.dev/icons?i=latex" />
+Circuit Design, PCB Layout | Signal Processing, DSP | Verilog HDL, Assembly | Linear Algebra, Complex Analysis
+Sensors, Actuators, IoT | Computer Vision, AI | Git, Linux | Algorithms, Optimization
+FPGA Programming | Control Systems | MySQL, Bash | Numerical Methods
 
 </div>
 
@@ -62,45 +78,55 @@ I'm passionate about creating intelligent systems that interact with the physica
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔐 Intelligent Security Camera</h3>
+      <h3 align="center">🤖 Autonomous Navigation Robot</h3>
       <p align="center">
-        <a href="https://github.com/rivindu02/security-camera" target="_blank">
-          <img src="/api/placeholder/500/300" alt="Security Camera" width="100%" />
+        <a href="https://github.com/rivindu02/autonomous-robot" target="_blank">
+          <img src="/api/placeholder/500/300" alt="Autonomous Robot" width="100%" />
         </a>
-        <span>Raspberry Pi-powered security system with facial recognition and Telegram alerts</span>
+        <span>Embedded system using sensor fusion, SLAM algorithms and custom PCB design for indoor navigation</span>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📡 CRC Protocol Simulation</h3>
+      <h3 align="center">📡 Advanced Signal Processing Library</h3>
       <p align="center">
-        <a href="https://github.com/rivindu02/crc-simulation" target="_blank">
-          <img src="/api/placeholder/500/300" alt="CRC Simulation" width="100%" />
+        <a href="https://github.com/rivindu02/signal-processing" target="_blank">
+          <img src="/api/placeholder/500/300" alt="Signal Processing" width="100%" />
         </a>
-        <span>MATLAB implementation of CRC encoder/decoder with comprehensive error analysis</span>
+        <span>Optimized DSP algorithms implementing FFT, wavelet transforms and filter designs for resource-constrained systems</span>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">💻 Hardware Dissection Project</h3>
+      <h3 align="center">🔌 FPGA-Based Video Processing</h3>
       <p align="center">
-        <a href="https://github.com/rivindu02/motherboard-analysis" target="_blank">
-          <img src="/api/placeholder/500/300" alt="Motherboard Analysis" width="100%" />
+        <a href="https://github.com/rivindu02/fpga-video" target="_blank">
+          <img src="/api/placeholder/500/300" alt="FPGA Video Processing" width="100%" />
         </a>
-        <span>Deep dive into modern motherboard architecture with component-level documentation</span>
+        <span>Verilog implementation of real-time video filters and edge detection algorithms on FPGA</span>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🧠 ML Experiments Lab</h3>
+      <h3 align="center">🧠 Embedded Machine Learning Framework</h3>
       <p align="center">
-        <a href="https://github.com/rivindu02/ml-experiments" target="_blank">
-          <img src="/api/placeholder/500/300" alt="ML Experiments" width="100%" />
+        <a href="https://github.com/rivindu02/embedded-ml" target="_blank">
+          <img src="/api/placeholder/500/300" alt="Embedded ML" width="100%" />
         </a>
-        <span>Collection of machine learning implementations focusing on embedded applications</span>
+        <span>Lightweight ML inference engine optimized for microcontrollers with mathematical model compression techniques</span>
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## 📚 Research Interests
+
+- **Mathematical Optimization in Robotics:** Applying complex analysis to path planning algorithms
+- **Efficient Neural Network Architectures:** Designing ML models for resource-constrained embedded systems
+- **Advanced Signal Processing:** Novel approaches to sensor fusion and filtering for noisy environments
+- **Hardware-Software Co-Design:** Creating optimal architectures for computationally intensive applications
+- **FPGA Acceleration:** Implementing parallel algorithms in hardware for real-time processing
 
 ---
 
@@ -111,13 +137,15 @@ I'm passionate about creating intelligent systems that interact with the physica
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivindu02&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" width="48%" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/rivindu02">
-    <img src="https://github-profile-trophy.vercel.app/?username=rivindu02&theme=nord&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
-<h2 align="center">⚡ Let's Build Something Amazing Together! ⚡</h2>
+<h2 align="center">⚡ Let's Build Intelligent Systems Together! ⚡</h2>
 
+<p align="center">
+  <a href="https://github.com/rivindu02?tab=followers">
+    <img src="https://img.shields.io/github/followers/rivindu02?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/rivindu02?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=flat&logo=github" alt="View All Repositories" />
+  </a>
+</p>
