@@ -100,7 +100,7 @@ I operate at the convergence of telecommunications, embedded systems, and machin
       <h3 align="center">🔐 IoT Security Camera System</h3>
       <p align="center">
         <a href="https://github.com/rivindu02/parking-assistant" target="_blank">
-          <img src="https://github.com/rivindu02/rivindu02/blob/main/security_camera_demo.gif" alt="Parking Assistant" width="100%" />
+          <img src="https://github.com/rivindu02/rivindu02/blob/main/security_camera_demo.gif" alt="Parking Assistant" width="50%" height="200" />
         </a>
         <span>Raspberry Pi-powered security system with real-time monitoring, remote access, and alert notifications</span>
       </p>
@@ -160,6 +160,7 @@ I operate at the convergence of telecommunications, embedded systems, and machin
   <img src="https://github-readme-stats.vercel.app/api?username=rivindu02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivindu02&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" width="48%" alt="GitHub Streak" />
 </p>
+
 
 ---
 
