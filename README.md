@@ -5,7 +5,7 @@
   <img src="https://github.com/rivindu02/rivindu02/blob/main/github_intro.gif" width="500" alt="Animated Banner" />
 </p>
 
-<h3 align="center">⚡ Electronic & Telecom Engineer | Robotics Innovator | IoT & ML Specialist ⚡</h3>
+<h3 align="center">⚡ Interested in Robotics, Electronics, IoT, Vision, ML  ⚡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rivindu02&label=Explorers&color=blueviolet&style=for-the-badge" alt="Profile Views" />
