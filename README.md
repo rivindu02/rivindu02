@@ -5,7 +5,7 @@
   <img src="https://github.com/rivindu02/rivindu02/blob/main/github_intro.gif" width="500" alt="Animated Banner" />
 </p>
 
-<h3 align="center">⚡ Interested in Robotics, Electronics, IoT, Vision, ML  ⚡</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rivindu02&label=Explorers&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -21,13 +21,13 @@
           self.name = "Rivindu Vinsara Kumarage"
           self.education = "Electronic & Telecom Engineering, UoM Sri Lanka"
           
-          self.core_domains = ["Telecom Systems", "Robotics", "Embedded Systems", "IoT", "Signal Processing"]
+          self.core_domains = ["Robotics", "Machine Learning", "Commputer Vision", "Electronics" ,"Embedded Systems", "IoT", "Communication"]
           
           self.tech_stack = {
               "hardware": ["Circuit Design", "PCB Layout", "FPGA", "Microcontrollers", 
                           "RF Systems", "Wireless Communications"],
               "languages": ["Python", "C/C++", "Verilog", "MATLAB"],
-              "ai_ml": ["Computer Vision", "TensorFlow", "PyTorch", "Signal Analysis"],
+              "ai_ml": ["Computer Vision", "TensorFlow", "PyTorch"],
               "telecom": ["Network Protocols", "Communication Systems", 
                          "Signal Processing", "Wireless Technology"]
           }
