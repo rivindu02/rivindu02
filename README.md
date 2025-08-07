@@ -71,10 +71,39 @@ I operate at the convergence of telecommunications, embedded systems, and machin
 
 ---
 
-## 🏆 Real-World Projects
+## 📚Project Portfolio
 
 <table>
   <tr>
+    <td width="33%">
+      <h3 align="center">💊 MediBox</h3>
+      <p>Smart medication box that notifies users of medication schedules while maintaining optimal internal temperature and conditions</p>
+      <p align="center"><b>Technologies</b></p>
+      <p align="center">IoT • Temperature Control • Notification System</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🔌 Smart Plug</h3>
+      <p>IoT-enabled power plug with remote switching capabilities, power consumption monitoring, and email notifications</p>
+      <p align="center"><b>Technologies</b></p>
+      <p align="center">IoT • Power Monitoring • Cloud Integration</p>
+    </td>
+
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3 align="center">📊 Analog Voltmeter</h3>
+      <p>Custom-designed analog voltage measurement device with precision circuitry</p>
+      <p align="center"><b>Technologies</b></p>
+      <p align="center">Analog Circuit Design • Calibration • Precision Measurement</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🧭 MicroMouse</h3>
+      <p>Autonomous mouse robot designed for maze navigation using advanced pathfinding algorithms</p>
+      <p align="center"><b>Technologies</b></p>
+      <p align="center">Autonomous Navigation • Sensor Fusion • Algorithms</p>
+    </td>
+  </tr>
+    <tr>
     <td width="50%">
       <h3 align="center">🤖 Advanced Robotics Module</h3>
       <p align="center">
@@ -95,61 +124,8 @@ I operate at the convergence of telecommunications, embedded systems, and machin
     </td>
     
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔐 IoT Security Camera System</h3>
-      <p align="center">
-        <a href="https://github.com/rivindu02/parking-assistant" target="_blank">
-          <img src="https://github.com/rivindu02/rivindu02/blob/main/security_camera_demo.gif" alt="Parking Assistant" width="50%" height="200" />
-        </a>
-        <span>Raspberry Pi-powered security system with real-time monitoring, remote access, and alert notifications</span>
-      </p>
-    </td>
-    <td></td>
-    
-    
-  </tr>
-</table>
-
----
-
-## 📚 Additional Project Portfolio
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">💊 MediBox</h3>
-      <p>Smart medication box that notifies users of medication schedules while maintaining optimal internal temperature and conditions</p>
-      <p align="center"><b>Technologies</b></p>
-      <p align="center">IoT • Temperature Control • Notification System</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🔌 Smart Plug</h3>
-      <p>IoT-enabled power plug with remote switching capabilities, power consumption monitoring, and email notifications</p>
-      <p align="center"><b>Technologies</b></p>
-      <p align="center">IoT • Power Monitoring • Cloud Integration</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🧭 MicroMouse</h3>
-      <p>Autonomous mouse robot designed for maze navigation using advanced pathfinding algorithms</p>
-      <p align="center"><b>Technologies</b></p>
-      <p align="center">Autonomous Navigation • Sensor Fusion • Algorithms</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <h3 align="center">📊 Analog Voltmeter</h3>
-      <p>Custom-designed analog voltage measurement device with precision circuitry</p>
-      <p align="center"><b>Technologies</b></p>
-      <p align="center">Analog Circuit Design • Calibration • Precision Measurement</p>
-    </td>
-    <td width="33%" colspan="2">
-      <h3 align="center">📡 Telecommunications Research</h3>
-      <p>Research in modern telecommunications systems, focusing on signal processing techniques, network optimization, and wireless communication protocols</p>
-      <p align="center"><b>Technologies</b></p>
-      <p align="center">RF Systems • Network Protocols • Signal Processing • Wireless Communication</p>
-    </td>
-  </tr>
+  
+  
 </table>
 
 ---
