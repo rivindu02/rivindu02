@@ -16,26 +16,66 @@
 <div align="center">
   
   ```python
-  class EngineeringInnovator:
-      def __init__(self):
-          self.name = "Rivindu Vinsara Kumarage"
-          self.education = "Electronic & Telecom Engineering, UoM Sri Lanka"
-          
-          self.core_domains = ["Robotics", "Machine Learning", "Commputer Vision", "Electronics" ,"Embedded Systems", "IoT", "Communication"]
-          
-          self.tech_stack = {
-              "hardware": ["Circuit Design", "PCB Layout", "FPGA", "Microcontrollers", 
-                          "RF Systems", "Wireless Communications"],
-              "languages": ["Python", "C/C++", "Verilog", "MATLAB"],
-              "ai_ml": ["Computer Vision", "TensorFlow", "PyTorch"],
-              "telecom": ["Network Protocols", "Communication Systems", 
-                         "Signal Processing", "Wireless Technology"]
-          }
-          
-          self.current_focus = "Bridging telecom technologies with IoT and intelligent systems"
-          
-      def approach(self):
-          return "Creating innovative solutions where hardware meets intelligence"
+class EngineeringInnovator:
+    def __init__(self):
+        self.name = "Rivindu Vinsara Kumarage"
+        self.education = (
+            "B.Sc. (Hons) in Electronic & Telecommunication Engineering, "
+            "University of Moratuwa, Sri Lanka"
+        )
+
+        self.core_domains = [
+            "Robotics", "Machine Learning", "Computer Vision", 
+            "Image Processing", "Embedded Systems", "IoT", 
+            "Signal Processing", "Communication Systems"
+        ]
+
+        self.tech_stack = {
+            "hardware": [
+                "Circuit Design", "FPGA", "Microcontrollers", 
+                "Sensors & Actuators", "Robotic Kinematics"
+            ],
+            "languages": ["Python", "C/C++", "Verilog", "MATLAB"],
+            "ai_ml": [
+                "Pattern Recognition", "Deep Learning (CNNs)", 
+                "OpenCV", "TensorFlow", "PyTorch"
+            ],
+            "telecom": [
+                "Network Protocols", "Wireless Technology", 
+                "Communication Systems", "Signal Processing"
+            ]
+        }
+
+        self.academic_background = {
+            "completed": [
+                "Electronic Circuits & Analysis",
+                "Signals & Systems",
+                "Fundamentals of Computer Organization & Design",
+                "Robot Design & Competition",
+                "Electronic Control Systems",
+                "Communication Systems Engineering",
+                "Electronic Design Realization"
+            ],
+            "current": [
+                "Electromagnetics",
+                "Pattern Recognition",
+                "Image Processing & Machine Vision",
+                "Internet of Things",
+                "Robotics"
+            ]
+        }
+
+        self.current_focus = (
+            "Integrating robotics with machine learning and vision systems, "
+            "leveraging IoT and advanced software to create intelligent, autonomous solutions."
+        )
+
+    def approach(self):
+        return (
+            "Designing systems where mechanical precision meets intelligent algorithms — "
+            "merging hardware, perception, and decision-making into robust engineering solutions."
+        )
+
   ```
   
 </div>
