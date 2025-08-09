@@ -6,8 +6,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rivindu02&label=Explorers&color=blueviolet&style=for-the-badge" />
-  <a href="mailto:kumaragerivindu@gmail.com"><img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email" /></a>
-  <a href="https://instagram.com/rivindu_k"><img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kumaragerivindu@gmail.com">
+    <img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email" />
+  </a>
+  <a href="https://instagram.com/rivindu_k">
+    <img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram" />
+  </a>
 </p>
 
 ---
