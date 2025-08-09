@@ -26,16 +26,11 @@
 
 <div align="center">
 
-**Robotics, Hardware, Telecom** | **Languages, Tools** | **AI, Web & Automation**
+**Robotics • FPGA • IoT** | **Dev Tools & Languages** | **AI • Web • Automation**
 :--:|:--:|:--:
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab" /> | <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,mysql,vscode,git,linux,anaconda" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,react,flask,docker" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> <br>· STM32CubeIDE · Keil uVision5  · Quartus Prime · QuestaSim · platformio| <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,vscode,git,linux" />| <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,react,flask" />
 
 </div>
-
-<p align="center">
-  <b>Also:</b> FPGA · Verilog HDL · RF/Wireless Systems · Network Protocols · PCB Design · PID/Control · IoT Architecture · Data Structures & Algorithms
-</p>
-
 
 ---
 
