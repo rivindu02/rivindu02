@@ -1,156 +1,90 @@
 <h1 align="center">👨‍💻 Rivindu Vinsara Kumarage</h1>
 
-<!-- Animated GIF Banner -->
 <p align="center">
-  <img src="https://github.com/rivindu02/rivindu02/blob/main/github_intro.gif" width="500" alt="Animated Banner" />
+  <img src="https://github.com/rivindu02/rivindu02/blob/main/github_intro.gif" width="520" alt="Banner" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rivindu02&label=Explorers&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <a href="mailto:kumaragerivindu@gmail.com"><img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email" alt="Email"/></a>
-  <a href="https://instagram.com/rivindu02"><img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rivindu02&label=Explorers&color=blueviolet&style=for-the-badge" />
+  <a href="mailto:kumaragerivindu@gmail.com"><img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email" /></a>
+  <a href="https://instagram.com/rivindu02"><img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram" /></a>
 </p>
-
-<div align="center">
-  
-  ```python
-class EngineeringInnovator:
-    def __init__(self):
-        self.name = "Rivindu Vinsara Kumarage"
-        self.education = (
-            "B.Sc. (Hons) in Electronic & Telecommunication Engineering, "
-            "University of Moratuwa, Sri Lanka"
-        )
-
-        self.core_domains = [
-            "Robotics", "Machine Learning", "Computer Vision", 
-            "Image Processing", "Embedded Systems", "IoT", 
-            "Signal Processing", "Communication Systems"
-        ]
-
-        self.tech_stack = {
-            "hardware": [
-                "Circuit Design", "FPGA", "Microcontrollers", 
-                "Sensors & Actuators", "Robotic Kinematics"
-            ],
-            "languages": ["Python", "C/C++", "Verilog", "MATLAB"],
-            "ai_ml": [
-                "Pattern Recognition", "Deep Learning (CNNs)", 
-                "OpenCV", "TensorFlow", "PyTorch"
-            ],
-            "telecom": [
-                "Network Protocols", "Wireless Technology", 
-                "Communication Systems", "Signal Processing"
-            ]
-        }
-
-        self.academic_background = {
-            "completed": [
-                "Electronic Circuits & Analysis",
-                "Signals & Systems",
-                "Fundamentals of Computer Organization & Design",
-                "Robot Design & Competition",
-                "Electronic Control Systems",
-                "Communication Systems Engineering",
-                "Electronic Design Realization"
-            ],
-            "current": [
-                "Electromagnetics",
-                "Pattern Recognition",
-                "Image Processing & Machine Vision",
-                "Internet of Things",
-                "Robotics"
-            ]
-        }
-
-        self.current_focus = (
-            "Integrating robotics with machine learning and vision systems, "
-            "leveraging IoT and advanced software to create intelligent, autonomous solutions."
-        )
-
-    def approach(self):
-        return (
-            "Designing systems where mechanical precision meets intelligent algorithms — "
-            "merging hardware, perception, and decision-making into robust engineering solutions."
-        )
-
-  ```
-  
-</div>
 
 ---
 
-## 🔮 Vision & Mission
+## ⚡ Snapshot
 
-> *"Designing connected systems that seamlessly integrate communication, intelligence, and real-world interaction"*
+> **Engineering the edge where robotics, ML, and connectivity meet.**
 
-I operate at the convergence of telecommunications, embedded systems, and machine intelligence. My work bridges traditional engineering with cutting-edge technologies to create smart, connected solutions.
-
-- 📡 **Telecom:** Wireless systems, network protocols, RF design, communication theory
-- 🤖 **Robotics:** Autonomous navigation, PID control, sensor fusion, motor control
-- 🔌 **Electronics:** Circuit design, embedded systems, PCB development, microcontrollers
-- ☁️ **IoT & Cloud:** Remote monitoring, smart systems, data analytics
+- 🎓 **B.Sc. (Hons), Electronic & Telecommunication Engineering — University of Moratuwa**
+- 🎯 **Focus:** Intelligent robotics • Perception (CV) • IoT/Edge systems
+- 🧭 **Domains:** Robotics · Machine Learning · Computer Vision · Image Processing · Embedded · IoT
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🧰 Technical Arsenal
 
 <div align="center">
 
-**Hardware & Telecom** | **Languages & Tools** | **AI & Automation**
-:-------------------------:|:--------------------:|:-------------------:
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,bash,blender" /> | <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,vscode,visualstudio" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,aws,gcp" />
+**Robotics, Hardware, Telecom** | **Languages, Tools** | **AI, Web & Automation**
+:--:|:--:|:--:
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab" /> | <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,mysql,vscode,git,linux,anaconda" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,react,flask,docker" />
 
 </div>
 
 <p align="center">
-  <b>Additional Skills:</b> RF Systems • Network Protocols • Verilog HDL • PCB Design • PID Control • IoT Architecture • Control Systems • Data Structures & Algorithms • Web Development
+  <b>Also:</b> FPGA · Verilog HDL · RF/Wireless Systems · Network Protocols · PCB Design · PID/Control · IoT Architecture · Data Structures & Algorithms
 </p>
+
 
 ---
 
-## 📚Project Portfolio
+## 🎓 Academics (Current Track)
+
+- ✅ **Completed:** Electronic Circuits & Analysis · Signals & Systems · Computer Organization & Design · Robotics Design & Competition · Electronic Control Systems · Communication Systems Engineering · Electronic Design Realization  
+- 📚 **Now:** Electromagnetics · Pattern Recognition · Image Processing & Machine Vision · Internet of Things · Robotics
+
+---
+
+## 🚀 Projects
 
 <table>
   <tr>
     <td width="33%">
       <h3 align="center">💊 MediBox</h3>
-      <p>Smart medication box that notifies users of medication schedules while maintaining optimal internal temperature and conditions</p>
-      <p align="center"><b>Technologies</b></p>
-      <p align="center">IoT • Temperature Control • Notification System</p>
+      <p>Smart medication box with schedule alerts and controlled internal environment.</p>
+      <p align="center"><b>Stack</b></p>
+      <p align="center">IoT · Temp Control · Notifications</p>
     </td>
     <td width="33%">
       <h3 align="center">🔌 Smart Plug</h3>
-      <p>IoT-enabled power plug with remote switching capabilities, power consumption monitoring, and email notifications</p>
-      <p align="center"><b>Technologies</b></p>
-      <p align="center">IoT • Power Monitoring • Cloud Integration</p>
+      <p>Remote switching + power monitoring with cloud email alerts.</p>
+      <p align="center"><b>Stack</b></p>
+      <p align="center">IoT · Power Sensing · Cloud</p>
     </td>
-
   </tr>
   <tr>
     <td width="33%">
       <h3 align="center">📊 Analog Voltmeter</h3>
-      <p>Custom-designed analog voltage measurement device with precision circuitry</p>
-      <p align="center"><b>Technologies</b></p>
-      <p align="center">Analog Circuit Design • Calibration • Precision Measurement</p>
+      <p>Precision analog measurement instrument with careful calibration.</p>
+      <p align="center"><b>Stack</b></p>
+      <p align="center">Analog Design · Metrology</p>
     </td>
     <td width="33%">
       <h3 align="center">🧭 MicroMouse</h3>
-      <p>Autonomous mouse robot designed for maze navigation using advanced pathfinding algorithms</p>
-      <p align="center"><b>Technologies</b></p>
-      <p align="center">Autonomous Navigation • Sensor Fusion • Algorithms</p>
+      <p>Autonomous maze solver using sensor fusion and tuned PID navigation.</p>
+      <p align="center"><b>Stack</b></p>
+      <p align="center">Navigation · PID · Algorithms</p>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🤖 Advanced Robotics Module</h3>
       <p align="center">
         <a href="https://github.com/rivindu02/robotics-module" target="_blank">
           <img src="https://github.com/rivindu02/rivindu02/blob/main/WhatsApp%20Image%202025-04-02%20at%2001.31.07_a522804d.jpg" alt="Robotics Module" width="100%" />
         </a>
-        <span>Multi-functional robot capable of line following (black/white/color), box arrangement,color detection and precision gripper mechanism for sorting ping pong balls and virtual box manipulation using IR array PID and encoder PID control</span>
+        <span>Line/color following, box arrangement, color sorting; dual PID (IR array & encoders) + precision gripper.</span>
       </p>
     </td>
     <td width="50%">
@@ -159,38 +93,22 @@ I operate at the convergence of telecommunications, embedded systems, and machin
         <a href="https://github.com/rivindu02/parking-assistant" target="_blank">
           <img src="https://github.com/rivindu02/rivindu02/blob/main/parksense.jpg" alt="Parking Assistant" width="100%" />
         </a>
-        <span>Web-based parking management system with license plate recognition using ML, user identification, and slot selection</span>
+        <span>Web-based parking with LPR (ML), user auth, and slot allocation.</span>
       </p>
     </td>
-    
   </tr>
-  
-  
 </table>
 
 ---
 
-## 📊 Engineering Impact
+## 📈 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rivindu02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivindu02&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rivindu02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivindu02&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" width="48%" />
 </p>
-
 
 ---
 
 <h2 align="center">⚡ Connecting the World through Innovation ⚡</h2>
-
-<p align="center">
-  <i>"From telecommunications infrastructure to intelligent robots, building the connected systems of tomorrow"</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rivindu02?tab=followers">
-    <img src="https://img.shields.io/github/followers/rivindu02?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/rivindu02?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=flat&logo=github" alt="View All Repositories" />
-  </a>
-</p>
+<p align="center"><i>From telecom infrastructure to intelligent robots — building the connected systems of tomorrow.</i></p>
