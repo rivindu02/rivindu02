@@ -110,13 +110,15 @@
     <td width="50%" valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=rivindu02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF" alt="GitHub Stats" width="100%" />
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivindu02&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rivindu02&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" width="65%" />
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats-academic.vercel.app/api/top-langs/?username=rivindu02&layout=pie&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Language usage (pie)" width="65%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivindu02&layout=pie&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF" alt="Language usage (pie)" width="65%" />
     </td>
   </tr>
 </table>
+
+
 
 
 ---
