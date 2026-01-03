@@ -81,10 +81,11 @@
       <img src="https://img.shields.io/badge/PCB%20Design-0D1117?style=for-the-badge&logo=pcbsd&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <b>☁️ IoT & Cloud</b><br><br>
+      <b>☁️ IoT & Cloud </b><br><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
       <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
       <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -103,17 +104,17 @@
 ---
 
 
-## GitHub Pulse
+## GitHub Analytics
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rivindu02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-gules-two-98.vercel.app/api?username=rivindu02&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=FF6B6B&text_color=C9D1D9&border_color=30363D&border_radius=10&hide_border=false&cache_seconds=0" alt="GitHub Stats"/>
       <br/>
       <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rivindu02&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" width="100%" />
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivindu02&layout=pie&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF" alt="Language usage (pie)" width="65%" />
+      <img src="https://github-readme-stats-gules-two-98.vercel.app/api/top-langs/?username=rivindu02&layout=pie&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF" alt="Language usage (pie)" width="75%" />
     </td>
   </tr>
 </table>
