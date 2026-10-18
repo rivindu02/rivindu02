@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rivindu02&label=Explorers&color=blueviolet&style=for-the-badge" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=rivindu02%2Frivindu02&label=Explorers&countColor=%238a2be2&style=for-the-badge" />
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kumaragerivindu@gmail.com">
     <img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email" />
   </a>
