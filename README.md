@@ -111,8 +111,7 @@
 
 ##  Academics (Current Track)
 
-- ✅ **Completed:** Electronic Circuits & Analysis · Signals & Systems · Computer Organization & Design · Robotics Design & Competition · Electronic Control Systems · Communication Systems Engineering · Electronic Design Realization  
-- 📚 **Now:** Electromagnetics · Pattern Recognition · Image Processing & Machine Vision · Internet of Things · Robotics
+- ✅ **Completed:** Electronic Circuits & Analysis · Signals & Systems · Computer Organization & Design · Robotics Design & Competition · Electronic Control Systems · Communication Systems Engineering · Electronic Design Realization · Electromagnetics · Pattern Recognition · Image Processing & Machine Vision · Internet of Things · Robotics
 
 
 ---
