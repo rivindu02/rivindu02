@@ -31,29 +31,16 @@
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/rivindu02/Micromouse-Robot"><img src="https://raw.githubusercontent.com/rivindu02/Micromouse-Robot/main/docs/exploration.gif" width="100%" alt="Micromouse exploration" /></a><br>
-      <b><a href="https://github.com/rivindu02/Micromouse-Robot">Micromouse Robot</a></b><br>
-      STM32F411 micromouse for a 16×16 maze: flood-fill exploration, custom Altium PCB and CAD
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/rivindu02/Smart-Security-camera"><img src="https://raw.githubusercontent.com/rivindu02/Smart-Security-camera/main/demo.gif" width="100%" alt="PiGuard demo" /></a><br>
-      <b><a href="https://github.com/rivindu02/Smart-Security-camera">PiGuard Security Camera</a></b><br>
-      Raspberry Pi camera with PIR motion detection, night vision, recording and Telegram alerts
-    </td>
-  </tr>
-</table>
-
 | Project | What it is | Stack |
 |---|---|---|
+| 🤖 [Micromouse Robot](https://github.com/rivindu02/Micromouse-Robot) | STM32F411 micromouse for a 16×16 maze: flood-fill exploration, custom Altium PCB and CAD | STM32 · C · Altium |
 | 🤖 [zed_mapping_check](https://github.com/rivindu02/zed_mapping_check) | ZED 2i recording → DROID-SLAM poses → voxel map → ACE relocalisation check (final-year project work) | Python · DROID-SLAM · Open3D · ZED SDK |
 | 🤖 [SLRC 2025 Finals](https://github.com/rivindu02/SLRC-2025-final-round) | Top-five finalist robot at SLRC 2025 with a 4-DoF arm (team PixieBots) | PlatformIO · C++ · servos · colour sensors |
 | 🤖 [Autonomous Robot (EN2533)](https://github.com/rivindu02/EN2533-Robotic-Design-and-Competition-) | Line, colour-path and maze navigation with box handling | Arduino · C++ |
 | 👁️ [Image Processing & CV](https://github.com/rivindu02/EN3160-Image-Processing-and-Computer-Vision) | RANSAC fitting, homography, SIFT stitching, GrabCut | Python · OpenCV |
 | 👁️ [Zero-Shot Composed Image Retrieval](https://github.com/rivindu02/ZS-CIR-EN3160-project) | Reproduction and extension of ZS-CIR, with a retrieval demo | PyTorch · CLIP |
 | 🌐 [Echo-Guard](https://github.com/rivindu02/Echo-Guard) | Real-time noise monitoring: ESP32 sensors → MQTT → Raspberry Pi → React map | ESP32 · MQTT · WebSocket · React |
+| 🌐 [PiGuard Security Camera](https://github.com/rivindu02/Smart-Security-camera) | Raspberry Pi camera with PIR motion detection, night vision, recording and Telegram alerts | Raspberry Pi · Python · Telegram API |
 | 🌐 [Medibox](https://github.com/rivindu02/EN2853-Medibox) | ESP32 medicine reminder with a Node-RED dashboard | ESP32 · MQTT · Node-RED |
 | 🔧 [Torque Sensor](https://github.com/rivindu02/Torque-Sensor) | Strain-gauge torque sensor with BLE readout | HX711 · DA14531 · Altium |
 
