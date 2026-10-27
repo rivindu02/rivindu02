@@ -1,5 +1,7 @@
 <h1 align="center">👨‍💻 Rivindu Vinsara Kumarage</h1>
 
+<p align="center"><b>Robotics · Computer Vision · ML/AI · Embedded & IoT · Linux</b></p>
+
 <p align="center">
   <img src="https://github.com/rivindu02/rivindu02/blob/main/github_intro.gif" width="520" alt="Banner" />
 </p>
@@ -21,95 +23,97 @@
 
 ## About Me
 
-> **Engineering the edge where robotics, ML, and connectivity meet.**
+I'm an **Electronic & Telecommunication Engineering undergraduate at the University of Moratuwa**, focused on **robotics, computer vision, machine learning, and embedded/IoT systems**.
 
-- 🎓 **B.Sc. (Hons), Electronic & Telecommunication Engineering — University of Moratuwa**
-- 🎯 **Focus:** Intelligent robotics • Perception (CV) • IoT/Edge systems
-- 🧭 **Domains:** Robotics · Machine Learning · Computer Vision · Image Processing · Embedded · IoT
+I work on autonomous robots, simulation, image processing, neural networks, and connected hardware—from STM32 maze navigation to ROS 2 simulation and PyTorch experiments. I also enjoy building and maintaining my Arch Linux environment, writing automation scripts, and making everyday tools work together.
 
----
-
-## Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🤖 [Micromouse Robot](https://github.com/rivindu02/Micromouse-Robot) | STM32F411 micromouse for a 16×16 maze: flood-fill exploration, custom Altium PCB and CAD | STM32 · C · Altium |
-| 🤖 [zed_mapping_check](https://github.com/rivindu02/zed_mapping_check) | ZED 2i recording → DROID-SLAM poses → voxel map → ACE relocalisation check (final-year project work) | Python · DROID-SLAM · Open3D · ZED SDK |
-| 🤖 [SLRC 2025 Finals](https://github.com/rivindu02/SLRC-2025-final-round) | Top-five finalist robot at SLRC 2025 with a 4-DoF arm (team PixieBots) | PlatformIO · C++ · servos · colour sensors |
-| 🤖 [Autonomous Robot (EN2533)](https://github.com/rivindu02/EN2533-Robotic-Design-and-Competition-) | Line, colour-path and maze navigation with box handling | Arduino · C++ |
-| 👁️ [Image Processing & CV](https://github.com/rivindu02/EN3160-Image-Processing-and-Computer-Vision) | RANSAC fitting, homography, SIFT stitching, GrabCut | Python · OpenCV |
-| 👁️ [Zero-Shot Composed Image Retrieval](https://github.com/rivindu02/ZS-CIR-EN3160-project) | Reproduction and extension of ZS-CIR, with a retrieval demo | PyTorch · CLIP |
-| 🌐 [Echo-Guard](https://github.com/rivindu02/Echo-Guard) | Real-time noise monitoring: ESP32 sensors → MQTT → Raspberry Pi → React map | ESP32 · MQTT · WebSocket · React |
-| 🌐 [PiGuard Security Camera](https://github.com/rivindu02/Smart-Security-camera) | Raspberry Pi camera with PIR motion detection, night vision, recording and Telegram alerts | Raspberry Pi · Python · Telegram API |
-| 🌐 [Medibox](https://github.com/rivindu02/EN2853-Medibox) | ESP32 medicine reminder with a Node-RED dashboard | ESP32 · MQTT · Node-RED |
-| 🔧 [Torque Sensor](https://github.com/rivindu02/Torque-Sensor) | Strain-gauge torque sensor with BLE readout | HX711 · DA14531 · Altium |
-
-**Also:** cloud and backend work in [School-Management-API](https://github.com/rivindu02/School-Management-API), [TF-ECS](https://github.com/rivindu02/TF-ECS) and [Serverless-AWS-Lambda-SAM](https://github.com/rivindu02/Serverless-AWS-Lambda-SAM-).
+Alongside that work, I build backend applications and cloud infrastructure with TypeScript, Docker, Terraform, Ansible, and AWS.
 
 ---
 
-##  Technical Arsenal
+## Robotics & Simulation
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center" width="33%">
-      <b>🤖 Robotics & Embedded</b><br><br>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-      <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-      <img src="https://img.shields.io/badge/Keil%20uVision5-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <b>🧠 AI, Vision & Automation</b><br><br>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <b>🧩 Languages & Dev Tools</b><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    </td>
-  </tr>
+| Project | Work and technologies |
+| --- | --- |
+| [Micromouse Robot](https://github.com/rivindu02/Micromouse-Robot) | STM32F411 robot for 16×16 mazes: flood-fill exploration, shortest-path navigation, embedded C, custom Altium PCB, and mechanical CAD. |
+| [Unitree Go2 in Isaac Sim](https://github.com/rivindu02/isaac-go2-ros2) | Isaac Sim and ROS 2 work for my final-year project, including camera/depth sensing, waypoint navigation, and synthetic dataset recording. Based on [Zhefan Xu's isaac-go2-ros2](https://github.com/Zhefan-Xu/isaac-go2-ros2). |
+| [ZED Mapping & Relocalisation](https://github.com/rivindu02/zed_mapping_check) | Experimental ZED 2i pipeline combining DROID-SLAM poses, voxel mapping, ACE relocalisation, and Open3D. End-to-end validation is pending. |
+| [SLRC 2025 Finals](https://github.com/rivindu02/SLRC-2025-final-round) | Team PixieBots' top-five finalist robot with autonomous navigation and a 4-DoF arm; C++, PlatformIO, servos, and colour sensors. |
 
-  <tr>
-    <td align="center" width="33%">
-      <b>🔬 FPGA & Verification</b><br><br>
-      <img src="https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-      <img src="https://img.shields.io/badge/QuestaSim-00A0E1?style=for-the-badge&logo=siemens&logoColor=white" />
-      <img src="https://img.shields.io/badge/Verilog%20HDL-333333?style=for-the-badge&logo=simpleicons&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <b>📐 EDA & CAD</b><br><br>
-      <img src="https://img.shields.io/badge/Altium%20Designer-1E1E1E?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
-      <img src="https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-      <img src="https://img.shields.io/badge/PCB%20Design-0D1117?style=for-the-badge&logo=pcbsd&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <b>☁️ IoT & Cloud </b><br><br>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-      <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-
-
+More robotics work: [autonomous robot design and competition](https://github.com/rivindu02/EN2533-Robotic-Design-and-Competition-) and [MATLAB robotics labs](https://github.com/rivindu02/EN3563-Robotics-Module) covering coordinate frames, forward/inverse kinematics, and trajectory generation.
 
 ---
 
-##  Academics (Current Track)
+## Vision, Machine Learning & AI
+
+| Project | Work and technologies |
+| --- | --- |
+| [CNN Experiments on CIFAR-10](https://github.com/rivindu02/EN4554-Assignment-2-on-CNNs) | PyTorch coursework covering manual backpropagation, optimizers, regularization, residual networks, and a compact CNN. |
+| [Boxsmith](https://github.com/rivindu02/boxsmith) | A tiny CNN trained from scratch on synthetic shapes, with an interactive object-detection lab for bounding boxes, NMS, IoU, precision–recall, and mAP. |
+| [Noise to Vogue](https://github.com/rivindu02/noise-to-vogue) | DDPMs trained on Fashion-MNIST, with linear/cosine noise-schedule comparisons, denoising animations, and an interactive prediction viewer. |
+| [Image Processing & Computer Vision](https://github.com/rivindu02/EN3160-Image-Processing-and-Computer-Vision) | OpenCV, NumPy, and scikit-image coursework: filtering, RANSAC, homography, SIFT stitching, and segmentation. |
+| [StyleNStay: Composed Image Retrieval](https://github.com/rivindu02/Zero-shot-CIR-EN3160-project) | Team project using TransAgg and a BLIP backbone to retrieve fashion images from a reference image and a text modification. |
+| [Jute Pest Classification](https://github.com/rivindu02/Jute-Pest-CNN-A3) | Team coursework comparing a custom CNN with transfer learning using VGG19, InceptionV3, and DenseNet201. |
+
+Foundations: [Pattern Recognition](https://github.com/rivindu02/EN3150-Pattern-Recognition)—regression, classification, robust losses, and model evaluation.
+
+In development: [Shortcut Sleuth](https://github.com/rivindu02/shortcut-sleuth), a planned CNN vs. ViT experiment on background shortcuts. The protocol is published; implementation and training are pending.
+
+---
+
+## Embedded Systems & IoT
+
+| Project | Work and technologies |
+| --- | --- |
+| [Echo-Guard](https://github.com/rivindu02/Echo-Guard) | Noise monitoring with ESP32 sensors, MQTT, a Raspberry Pi server, WebSockets, and a React interface. |
+| [Medibox](https://github.com/rivindu02/EN2853-Medibox) | ESP32 medicine reminders and environmental monitoring, with MQTT, Node-RED, and Wokwi simulation. |
+| [AmpAware](https://github.com/rivindu02/AmpAware) | Team smart-plug project. My contribution: PCB design, hardware testing, and system integration. |
+| [UART Between FPGAs](https://github.com/rivindu02/EN2111-UART-Based-Data-Transmission-Between-FPGAs) | Verilog UART transmitter/receiver design, baud-rate generation, and FPGA display integration. |
+
+Other hardware work includes a [Raspberry Pi security camera](https://github.com/rivindu02/Smart-Security-camera), a team [strain-gauge torque sensor](https://github.com/rivindu02/Torque-Sensor), and a [torque-readings dashboard](https://github.com/rivindu02/Torque-sensor-Dashboard).
+
+---
+
+## Linux & Systems
+
+**Arch Linux is both my daily environment and a hobby.** My [dotfiles](https://github.com/rivindu02/dotfiles) bring together Hyprland, Waybar, Neovim, Zsh, and GNU Stow.
+
+- Desktop and terminal customisation, shell scripting, and CLI utilities.
+- systemd services/timers, udev rules, package hooks, and system configuration.
+- Backup automation with restic and rclone, plus firewall configuration and secret-handling safeguards.
+
+---
+
+## Software, Cloud & DevOps
+
+| Project | Work and technologies |
+| --- | --- |
+| [School Management API](https://github.com/rivindu02/School-Management-API) | TypeScript/Express CRUD APIs for students, teachers, and courses; MongoDB, JWT authentication, role-based access, Zod validation, and OpenAPI documentation. |
+| [AWS Infrastructure with Terraform & Ansible](https://github.com/rivindu02/private-server-tf) | Modular infrastructure for a containerised application: VPC networking, EC2, an Application Load Balancer, and Ansible provisioning. |
+| [AWS ECS Infrastructure](https://github.com/rivindu02/TF-ECS) | Terraform modules for container deployment, networking, load balancing, and ECS capacity configuration. |
+| [Serverless API on AWS Lambda](https://github.com/rivindu02/Serverless-AWS-Lambda-SAM-) | A containerised Express API using AWS SAM, Lambda Web Adapter, API Gateway, ECR, and Terraform. |
+
+I also work with Docker Compose, automated tests, and GitHub Actions, and explore software design through projects such as [Document Life Cycle](https://github.com/rivindu02/Document-Life-cycle).
+
+---
+
+## Technical Toolkit
+
+| Area | Tools and concepts |
+| --- | --- |
+| **Robotics & simulation** | ROS 2, NVIDIA Isaac Sim, RViz, MATLAB Robotics Toolbox, kinematics, trajectory generation, maze navigation |
+| **Vision & ML/AI** | Python, PyTorch, TensorFlow, OpenCV, NumPy, scikit-learn, scikit-image, CNNs, transfer learning, diffusion models, image retrieval |
+| **3D perception** | ZED SDK, Open3D, point clouds; experimental DROID-SLAM and ACE integration |
+| **Embedded & IoT** | C/C++, STM32, ESP32, Arduino, Raspberry Pi, PlatformIO, STM32CubeIDE, Keil, MQTT, Node-RED |
+| **Electronics & hardware** | Altium Designer, PCB design, SolidWorks, Verilog, Quartus Prime, QuestaSim |
+| **Linux & development** | Arch Linux, Hyprland, Zsh, shell scripting, Neovim, GNU Stow, systemd, Git |
+| **Applications & APIs** | TypeScript, Node.js, Express, React, FastAPI, Flask, MongoDB, REST, WebSockets, JWT, Zod, OpenAPI |
+| **Cloud & DevOps** | AWS, Terraform, Ansible, Docker, Docker Compose, GitHub Actions, pytest; EC2, ECS, Lambda, SAM, VPC, ALB, API Gateway, ECR |
+
+---
+
+
+## Academics
 
 - ✅ **Completed:** Electronic Circuits & Analysis · Signals & Systems · Computer Organization & Design · Robotics Design & Competition · Electronic Control Systems · Communication Systems Engineering · Electronic Design Realization · Electromagnetics · Pattern Recognition · Image Processing & Machine Vision · Internet of Things · Robotics
 
