@@ -25,10 +25,6 @@
 
 I'm an **Electronic & Telecommunication Engineering undergraduate at the University of Moratuwa**, focused on **robotics, computer vision, machine learning, and embedded/IoT systems**.
 
-I work on autonomous robots, simulation, image processing, neural networks, and connected hardware—from STM32 maze navigation to ROS 2 simulation and PyTorch experiments. I also enjoy building and maintaining my Arch Linux environment, writing automation scripts, and making everyday tools work together.
-
-Alongside that work, I build backend applications and cloud infrastructure with TypeScript, Docker, Terraform, Ansible, and AWS.
-
 ---
 
 ## Robotics & Simulation
