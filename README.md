@@ -76,7 +76,7 @@ Other hardware work includes a [Raspberry Pi security camera](https://github.com
 
 ## Linux & Systems
 
-**Arch Linux is both my daily environment and a hobby.** My [dotfiles](https://github.com/rivindu02/dotfiles) bring together Hyprland, Waybar, Neovim, Zsh, and GNU Stow.
+**Linux** is part of my day-to-day work: I configure systems, write shell automation, and maintain services and developer tools (using Arch Linux, a Linux distribution). My [dotfiles](https://github.com/rivindu02/dotfiles) bring together Hyprland, Waybar, Neovim, Zsh, and GNU Stow.
 
 - Desktop and terminal customisation, shell scripting, and CLI utilities.
 - systemd services/timers, udev rules, package hooks, and system configuration.
@@ -106,7 +106,7 @@ I also work with Docker Compose, automated tests, and GitHub Actions, and explor
 | **3D perception** | ZED SDK, Open3D, point clouds; experimental DROID-SLAM and ACE integration |
 | **Embedded & IoT** | C/C++, STM32, ESP32, Arduino, Raspberry Pi, PlatformIO, STM32CubeIDE, Keil, MQTT, Node-RED |
 | **Electronics & hardware** | Altium Designer, PCB design, SolidWorks, Verilog, Quartus Prime, QuestaSim |
-| **Linux & development** | Arch Linux, Hyprland, Zsh, shell scripting, Neovim, GNU Stow, systemd, Git |
+| **Linux & development** | Linux (Arch Linux), Hyprland, Zsh, shell scripting, Neovim, GNU Stow, systemd, Git |
 | **Applications & APIs** | TypeScript, Node.js, Express, React, FastAPI, Flask, MongoDB, REST, WebSockets, JWT, Zod, OpenAPI |
 | **Cloud & DevOps** | AWS, Terraform, Ansible, Docker, Docker Compose, GitHub Actions, pytest; EC2, ECS, Lambda, SAM, VPC, ALB, API Gateway, ECR |
 
