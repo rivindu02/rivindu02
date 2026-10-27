@@ -37,6 +37,8 @@ Alongside that work, I build backend applications and cloud infrastructure with 
 | --- | --- |
 | [Micromouse Robot](https://github.com/rivindu02/Micromouse-Robot) | STM32F411 robot for 16×16 mazes: flood-fill exploration, shortest-path navigation, embedded C, custom Altium PCB, and mechanical CAD. |
 | [Unitree Go2 in Isaac Sim](https://github.com/rivindu02/isaac-go2-ros2) | Isaac Sim and ROS 2 work for my final-year project, including camera/depth sensing, waypoint navigation, and synthetic dataset recording. Based on [Zhefan Xu's isaac-go2-ros2](https://github.com/Zhefan-Xu/isaac-go2-ros2). |
+| Unitree Go2 in MuJoCo | Extended [Unitree's MuJoCo simulator](https://github.com/unitreerobotics/unitree_mujoco) with a verified C++ ROS 2 sensor bridge: 4,000-point 10 Hz LiDAR, IMU and simulation clock, Go2 teleoperation, KISS-ICP 3D mapping, and RViz visualisation. |
+| EKF-SLAM Mini Project (repository forthcoming) | Completed 2D landmark SLAM project: explicit Python EKF, 120 paired trials across six scenarios, and a Gazebo Classic 11 + ROS 2 Humble physics demo. Baseline mean trajectory RMSE was 0.238 ± 0.146 m versus 3.233 ± 1.172 m for odometry alone. I plan to publish the project after final edits. |
 | [ZED Mapping & Relocalisation](https://github.com/rivindu02/zed_mapping_check) | Experimental ZED 2i pipeline combining DROID-SLAM poses, voxel mapping, ACE relocalisation, and Open3D. End-to-end validation is pending. |
 | [SLRC 2025 Finals](https://github.com/rivindu02/SLRC-2025-final-round) | Team PixieBots' top-five finalist robot with autonomous navigation and a 4-DoF arm; C++, PlatformIO, servos, and colour sensors. |
 
@@ -92,6 +94,8 @@ Other hardware work includes a [Raspberry Pi security camera](https://github.com
 | [AWS Infrastructure with Terraform & Ansible](https://github.com/rivindu02/private-server-tf) | Modular infrastructure for a containerised application: VPC networking, EC2, an Application Load Balancer, and Ansible provisioning. |
 | [AWS ECS Infrastructure](https://github.com/rivindu02/TF-ECS) | Terraform modules for container deployment, networking, load balancing, and ECS capacity configuration. |
 | [Serverless API on AWS Lambda](https://github.com/rivindu02/Serverless-AWS-Lambda-SAM-) | A containerised Express API using AWS SAM, Lambda Web Adapter, API Gateway, ECR, and Terraform. |
+| Java / Vert.x service project (internship) | Built single-process and Hazelcast-clustered service prototypes with Vert.x event-bus service proxies; verified cross-process messaging and compared latency/throughput. |
+| Auth0-to-Keycloak migration work (internship) | Added Keycloak OIDC login support to an Auth0-backed frontend and validated the local redirect and token flow. The Kubernetes deployment stage was still pending. |
 
 I also work with Docker Compose, automated tests, and GitHub Actions, and explore software design through projects such as [Document Life Cycle](https://github.com/rivindu02/Document-Life-cycle).
 
@@ -107,6 +111,8 @@ I also work with Docker Compose, automated tests, and GitHub Actions, and explor
       <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="Isaac Sim" />
       <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB" />
       <img src="https://img.shields.io/badge/Robotics%20Toolbox-0B7285?style=for-the-badge" alt="Robotics Toolbox" />
+      <img src="https://img.shields.io/badge/Gazebo%20Classic-F58113?style=for-the-badge" alt="Gazebo Classic" />
+      <img src="https://img.shields.io/badge/MuJoCo-0075C9?style=for-the-badge" alt="MuJoCo" />
     </td>
     <td align="center" valign="top" width="33%">
       <b>Computer Vision &amp; ML</b><br><br>
@@ -155,6 +161,10 @@ I also work with Docker Compose, automated tests, and GitHub Actions, and explor
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
+      <img src="https://img.shields.io/badge/Vert.x-782A90?style=for-the-badge" alt="Vert.x" />
+      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge" alt="Keycloak" />
+      <img src="https://img.shields.io/badge/Hazelcast-FFDB00?style=for-the-badge" alt="Hazelcast" />
     </td>
   </tr>
   <tr>
