@@ -73,16 +73,6 @@ Other hardware work includes a [Raspberry Pi security camera](https://github.com
 
 ---
 
-## Linux & Systems
-
-**Linux** is part of my day-to-day work: I configure systems, write shell automation, and maintain services and developer tools (using Arch Linux, a Linux distribution). My [dotfiles](https://github.com/rivindu02/dotfiles) bring together Hyprland, Waybar, Neovim, Zsh, and GNU Stow.
-
-- Desktop and terminal customisation, shell scripting, and CLI utilities.
-- systemd services/timers, udev rules, package hooks, and system configuration.
-- Backup automation with restic and rclone, plus firewall configuration and secret-handling safeguards.
-
----
-
 ## Software, Cloud & DevOps
 
 | Project | Work and technologies |
