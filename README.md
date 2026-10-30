@@ -33,7 +33,7 @@ I'm an **Electronic & Telecommunication Engineering undergraduate at the Univers
 | --- | --- |
 | [Micromouse Robot](https://github.com/rivindu02/Micromouse-Robot) | STM32F411 robot for 16×16 mazes: flood-fill exploration, shortest-path navigation, embedded C, custom Altium PCB, and mechanical CAD. |
 | [Unitree Go2 in Isaac Sim](https://github.com/rivindu02/isaac-go2-ros2) | Isaac Sim and ROS 2 work for my final-year project, including camera/depth sensing, waypoint navigation, and synthetic dataset recording. Based on [Zhefan Xu's isaac-go2-ros2](https://github.com/Zhefan-Xu/isaac-go2-ros2). |
-| [2D EKF-SLAM Mini Project](https://github.com/rivindu02/ekf-slam-simulation) | Explicit Python landmark EKF, 120 paired trials across six scenarios, and a Gazebo Classic 11 + ROS 2 Humble physics demo. Baseline mean trajectory RMSE was 0.238 ± 0.146 m versus 3.233 ± 1.172 m for odometry alone. |
+| [EKF-SLAM Simulation](https://github.com/rivindu02/ekf-slam-simulation) | Joint robot-pose and landmark mapping in Python/NumPy, with loop-closure diagnostics, 120 paired trials, and a Gazebo Classic / ROS 2 demo. Baseline trajectory RMSE: 0.238 m versus 3.233 m for wheel odometry (20-seed means). [Animation](https://github.com/rivindu02/ekf-slam-simulation/blob/master/results/landmark_mapping.gif). |
 | [ZED Mapping & Relocalisation](https://github.com/rivindu02/zed_mapping_check) | Experimental ZED 2i pipeline combining DROID-SLAM poses, voxel mapping, ACE relocalisation, and Open3D. End-to-end validation is pending. |
 | [SLRC 2025 Finals](https://github.com/rivindu02/SLRC-2025-final-round) | Team PixieBots' top-five finalist robot with autonomous navigation and a 4-DoF arm; C++, PlatformIO, servos, and colour sensors. |
 | [Unitree Go2 in MuJoCo](https://github.com/rivindu02/unitree_mujoco) | Extended [Unitree's MuJoCo simulator](https://github.com/unitreerobotics/unitree_mujoco) with a verified C++ ROS 2 sensor bridge: 4,000-point 10 Hz LiDAR, IMU and simulation clock, Go2 teleoperation, KISS-ICP 3D mapping, and RViz visualisation. |
@@ -46,6 +46,7 @@ More robotics work: [autonomous robot design and competition](https://github.com
 
 | Project | Work and technologies |
 | --- | --- |
+| [Shortcut Sleuth](https://github.com/rivindu02/shortcut-sleuth) | Completed 12-run, three-seed CNN vs. ViT background-shortcut study, with foreground-preserving background swaps, verified evaluation, and an interactive PyTorch lab. |
 | [CNN Experiments on CIFAR-10](https://github.com/rivindu02/EN4554-Assignment-2-on-CNNs) | PyTorch coursework covering manual backpropagation, optimizers, regularization, residual networks, and a compact CNN. |
 | [Boxsmith](https://github.com/rivindu02/boxsmith) | A tiny CNN trained from scratch on synthetic shapes, with an interactive object-detection lab for bounding boxes, NMS, IoU, precision–recall, and mAP. |
 | [Noise to Vogue](https://github.com/rivindu02/noise-to-vogue) | DDPMs trained on Fashion-MNIST, with linear/cosine noise-schedule comparisons, denoising animations, and an interactive prediction viewer. |
@@ -55,7 +56,6 @@ More robotics work: [autonomous robot design and competition](https://github.com
 
 Foundations: [Pattern Recognition](https://github.com/rivindu02/EN3150-Pattern-Recognition)—regression, classification, robust losses, and model evaluation.
 
-In development: [Shortcut Sleuth](https://github.com/rivindu02/shortcut-sleuth), a planned CNN vs. ViT experiment on background shortcuts. The protocol is published; implementation and training are pending.
 
 ---
 
